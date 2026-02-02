@@ -57,6 +57,7 @@ This game was developed in collaboration with AI, with human direction for conce
 ## Roadmap
 
 - Wikipedia content for demo personalities
+- Bugfixes 
 
 ---
 
