@@ -1,39 +1,42 @@
-# neuroplant
-Neuroplant - A Retro Flashcard Game
-Explore - Learn - Grow
+Neuroplant
+A Retro Flashcard Game
+Explore · Learn · Grow
 
-Controls:
-Gamepad or keyboard recommended
-Touchscreen support experimental via menu: Touch Controls (On)
-Menu = M
-Learned = Enter
-Throw back = Z
-Read aloud = V
-Move = W A S D F, Arrow keys
-Flip = Spacebar
-Zoom in/out = Browser default (usually Ctrl+, Ctrl+-)
-Export/Imports
-Via .CSV spreadsheet
+Controls
+Gamepad or keyboard recommended. Touchscreen support is experimental (enable via menu: Touch Controls → On).
+ActionKeysMoveW A S D / Arrow KeysFlip cardSpacebarMark as learnedEnterThrow backZRead aloudVMenuMZoom in/outBrowser default (Ctrl + / Ctrl -)
+Data Export/Import: Via .CSV spreadsheet in the card manager
 
 Versions
-Version 1.4 - January 25, 2026:
--Randomized characters
-Version 1.9 - February 2, 2026:
--Bug fixes (Responsive & scroll improvements and smartphone glitches fixed)
--Color scheme without white areas and with an orange base color
--Demo map optimization
--Download as HTML file
--Fix a bug in smartphone controls
+v1.9 · February 2, 2026
+
+Bug fixes (responsive and scroll improvements)
+Smartphone control glitches fixed
+Color scheme without white areas, orange base color
+Demo map optimization
+Download as HTML file
+
+v1.4 · January 25, 2026
+
+Randomized characters
+
 
 Tech Stack
+
 React 18 (CDN)
-Standalone (in-browser JSX)
+Babel Standalone (in-browser JSX)
 Canvas API for rendering
 Web Speech API
 localStorage for persistence
-## Development
-This game was developed in collaboration with AI, 
-with narrow human direction for concept, design decisions, and testing.
 
-Roadmap:
--Wikipedia content on demo personalities
+
+Development
+This game was developed in collaboration with AI, with human direction for concept, design decisions, and testing.
+
+Roadmap
+
+Wikipedia content for demo personalities
+
+
+Author
+Marius Michusch
